@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "mode": "resume",
+  "source": "/home/user/carla-projects/train/runs/main/weights/resume.pt",
+  "epoch": 84,
+  "completed_epoch": 84,
+  "epochs": 250,
+  "metrics": {
+    "metrics/precision(B)": 0.8944,
+    "metrics/recall(B)": 0.83073,
+    "metrics/mAP50(B)": 0.88769,
+    "metrics/mAP50-95(B)": 0.6777,
+    "val/box_loss": 1.03258,
+    "val/cls_loss": 0.66572,
+    "val/l1_loss": 0.0051
+  },
+  "error": null,
+  "output": "/home/user/carla-projects/train/runs/main",
+  "gpu_memory_limit": null,
+  "pid": 15193,
+  "updated": 1793202829.5696392,
+  "best": "/home/user/carla-projects/train/runs/main/weights/best.pt",
+  "last": "/home/user/carla-projects/train/runs/main/weights/last.pt"
+}

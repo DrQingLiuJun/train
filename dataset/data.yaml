@@ -1,0 +1,5 @@
+path: /home/user/carla-projects/train/dataset
+train: /home/user/carla-projects/train/dataset/train.txt
+val: /home/user/carla-projects/train/dataset/val.txt
+nc: 4
+names: [person, car, cyclist, truck]
